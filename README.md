@@ -1,114 +1,161 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Mahammad Ziyad</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Developer • Cloud Enthusiast • Software Engineer
-</h3>
+# Hi 👋, I'm Mahammad Ziyad
 
-<p align="center">
-Passionate about building scalable backend systems, designing cloud-ready applications, and continuously learning modern technologies.
+### Backend Developer • Cloud Enthusiast • Software Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;Java+%7C+Spring+Boot+%7C+Node.js;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=ziyad251&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Final Year Computer Science Engineering Student
+- 💼 Backend Developer Intern at **Zephvion Pvt. Ltd.** *(April 2026 – July 2026)*
+- 💻 Passionate about Backend Development & Cloud Computing
+- ☁️ Currently learning **Spring Boot, Docker, Kubernetes, AWS & Microservices**
+- 📚 Solving Data Structures & Algorithms in Java
+- 🤖 Interested in AI/ML and Generative AI
+- 🎯 Looking for Software Engineering opportunities
+
+---
+
+# 💼 Experience
+
+## Backend Developer Intern — Zephvion Pvt. Ltd.
+
+**April 2026 – July 2026**
+
+- Developed backend APIs using Node.js and Express.js
+- Worked with PostgreSQL, Drizzle ORM and Redis
+- Implemented JWT Authentication
+- Optimized backend modules and fixed production bugs
+- Collaborated with the team using Git & GitHub
+- Contributed to backend development of the company's **NammaDharani** platform
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,postman" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 📂 Featured Projects
 
-- 🎓 Final-year Computer Science Engineering student
-- 💼 Backend Developer Intern at **Zephvion Pvt. Ltd.** *(April 2026 – July 2026)*
-- ☁️ Passionate about **Backend Development** and **Cloud Computing**
-- 🌱 Currently learning **Spring Boot, Microservices, Docker, Kubernetes, AWS, and System Design**
-- 💻 Building scalable REST APIs and backend applications using Java and Node.js
-- 🤖 🤖 Interested in AI/ML and Generative AI applications
-- 📚 Regularly practicing **Data Structures & Algorithms**
-- 🎯 Aspiring Software Engineer focused on Backend Engineering and Cloud Technologies
+## 🧠 Alzheimer's Disease Detection
+
+Deep learning based Alzheimer's disease detection using MRI images with ensemble learning and explainable AI techniques.
 
 ---
 
-## 💼 Experience
+## 🎯 PrepGuide AI
 
-### Backend Developer Intern | Zephvion Pvt. Ltd.
-**April 2026 – July 2026**
+AI-powered interview preparation platform featuring:
 
-- Developed and maintained backend services for production applications.
-- Designed secure REST APIs using Node.js and Express.js.
-- Worked with PostgreSQL, Drizzle ORM, JWT Authentication and Express.js
-- Implemented backend features, fixed bugs, and optimized API performance.
-- Collaborated with the development team using Git and GitHub.
-- Contributed to backend modules of the company's **NammaDharani** platform.
+- Resume Analysis
+- ATS Match Score
+- Personalized Interview Questions
+- Preparation Roadmap
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 DSA Notes
 
-### 👨‍💻 Languages
-
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-### 🗄️ Databases
-
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### ☁️ Cloud & DevOps
-
-- Docker
-- Kubernetes *(Learning)*
-- AWS *(Learning)*
-- Git
-- GitHub
-- Linux
-- Postman
+Optimized Java solutions for Data Structures & Algorithms with explanations.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyad251&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad251&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziyad251&show_icons=true&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ziyad251&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad251&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ziyad251&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🎯 Currently Learning
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyad251&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ziyad251&theme=tokyonight&row=1&column=6"/>
+
+---
+
+# 🌱 Currently Learning
 
 - Spring Boot
 - Microservices
 - Docker
 - Kubernetes
-- AWS Cloud
+- AWS
+- System Design
 - Generative AI
-- DSA
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 💻 LeetCode: https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
-- 🌐 Portfolio: https://YOUR_PORTFOLIO_URL
-- 📧 Email: YOUR_EMAIL@example.com
+<p>
 
----
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-> *"Building reliable backend systems today while preparing for the cloud-native applications of tomorrow."*
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
----
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
-```
 
+---
+
+<div align="center">
+
+### ⭐ "Building scalable backend systems today while preparing for cloud-native applications of tomorrow."
+
+</div>
