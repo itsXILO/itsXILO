@@ -124,10 +124,8 @@ Optimized Java solutions for Data Structures & Algorithms with explanations.
 
 # 🌱 Currently Learning
 
-- Spring Boot
 - Microservices
 - Docker
-- Kubernetes
 - AWS
 - System Design
 - Generative AI
@@ -136,20 +134,38 @@ Optimized Java solutions for Data Structures & Algorithms with explanations.
 
 # 🤝 Connect With Me
 
-<p>
+<h2 align="center">📬 Get In Touch</h2>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<table align="center">
+<tr>
+<th>Platform</th>
+<th>Link</th>
+</tr>
 
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
+<tr>
+<td>📧 Email</td>
+<td><a href="mahammadziyad251">YOUR_EMAIL</a></td>
+</tr>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<tr>
+<td>💼 LinkedIn</td>
+<td><a href="linkedin.com/in/mahammad-ziyad-890404299?utm_source=share_via&utm_content=profile&utm_medium=member_android">YOUR_PROFILE</a></td>
+</tr>
 
+<tr>
+<td>💻 LeetCode</td>
+<td><a href="https://leetcode.com/u/YOUR_USERNAME/">YOUR_USERNAME</a></td>
+</tr>
+
+<tr>
+<td>🐙 GitHub</td>
+<td><a href="https://github.com/ziyad251">@ziyad251</a></td>
+</tr>
+
+</table>
+
+<p align="center">
+<i>Thanks for stopping by — let's build something great together!</i>
 </p>
 
 ---
