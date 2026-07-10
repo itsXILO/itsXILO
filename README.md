@@ -31,7 +31,7 @@
 **April 2026 – July 2026**
 
 - Developed backend APIs using Node.js and Express.js
-- Worked with PostgreSQL, Drizzle ORM and Redis
+- Worked with PostgreSQL, Drizzle ORM and Neon DB
 - Implemented JWT Authentication
 - Optimized backend modules and fixed production bugs
 - Collaborated with the team using Git & GitHub
@@ -39,31 +39,34 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql" />
-</p>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## Backend
+### Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
 
-## Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github,postman" />
-</p>
 
 ---
 
