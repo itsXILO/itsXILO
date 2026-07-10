@@ -4,7 +4,7 @@
 
 ### Backend Developer • Cloud Enthusiast • Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;Java+%7C+Spring+Boot+%7C+Node.js;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=ziyad251&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -17,9 +17,9 @@
 - 🎓 Final Year Computer Science Engineering Student
 - 💼 Backend Developer Intern at **Zephvion Pvt. Ltd.** *(April 2026 – July 2026)*
 - 💻 Passionate about Backend Development & Cloud Computing
-- ☁️ Currently learning **Spring Boot, Docker, Kubernetes, AWS & Microservices**
+- ☁️ Currently learning **Docker, AWS & Microservices**
 - 📚 Solving Data Structures & Algorithms in Java
-- 🤖 Interested in AI/ML and Generative AI
+- 🤖 Interested in Generative AI
 - 🎯 Looking for Software Engineering opportunities
 
 ---
@@ -63,78 +63,12 @@
 
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 
 ---
-
-# 📂 Featured Projects
-
-## 🧠 Alzheimer's Disease Detection
-
-Deep learning based Alzheimer's disease detection using MRI images with ensemble learning and explainable AI techniques.
-
----
-
-## 🎯 PrepGuide AI
-
-AI-powered interview preparation platform featuring:
-
-- Resume Analysis
-- ATS Match Score
-- Personalized Interview Questions
-- Preparation Roadmap
-
----
-
-## 📚 DSA Notes
-
-Optimized Java solutions for Data Structures & Algorithms with explanations.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ziyad251&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyad251&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ziyad251&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ziyad251&theme=tokyo-night"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ziyad251&theme=tokyonight&row=1&column=6"/>
-
----
-
-# 🌱 Currently Learning
-
-- Microservices
-- Docker
-- AWS
-- System Design
-- Generative AI
-
----
-
 # 🤝 Connect With Me
 
 <h2 align="center">📬 Get In Touch</h2>
