@@ -144,18 +144,20 @@ Optimized Java solutions for Data Structures & Algorithms with explanations.
 
 <tr>
 <td>📧 Email</td>
-<td><a href="mahammadziyad251">YOUR_EMAIL</a></td>
+<td><a href="mahammadziyad251">mahammadziyad251@gmail.com</a></td>
 </tr>
+
+<tr>
+<td>🌐 Portfolio</td>
+<td><a href=""></a></td>
+</tr>
+
 
 <tr>
 <td>💼 LinkedIn</td>
-<td><a href="linkedin.com/in/mahammad-ziyad-890404299?utm_source=share_via&utm_content=profile&utm_medium=member_android">YOUR_PROFILE</a></td>
+<td><a href="linkedin.com/in/mahammad-ziyad-890404299?utm_source=share_via&utm_content=profile&utm_medium=member_android">Mahammad Ziyad</a></td>
 </tr>
 
-<tr>
-<td>💻 LeetCode</td>
-<td><a href="https://leetcode.com/u/YOUR_USERNAME/">YOUR_USERNAME</a></td>
-</tr>
 
 <tr>
 <td>🐙 GitHub</td>
