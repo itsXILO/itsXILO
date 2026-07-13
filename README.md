@@ -90,7 +90,7 @@
 
 <tr>
 <td>📧 Email</td>
-<td><a href="rajath99641@gmail.com>Rajath</a></td>
+<td><a href="rajath99641@gmail.com>rajth99641@gmil.com</a></td>
 </tr>
 
 <tr>
