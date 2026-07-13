@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+%26+Automation+Enthusiast;Building+Projects+That+Solve+Problems" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=itsXILO&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <tr>
 <td>📧 Email</td>
-<td><a href="rajath99641@gmail.com>rajth99641@gmil.com</a></td>
+<td><a href="mailto:rajath99641@gmail.com">rajath99641@gmail.com</a></td>
 </tr>
 
 <tr>
