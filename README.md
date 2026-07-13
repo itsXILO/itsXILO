@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Mahammad Ziyad
+# Hi 👋, I'm Rajath
 
-### Backend Developer • Cloud Enthusiast • Software Engineer
+### Backend Developer • Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;GenAI+Enthusiast;Always+Learning+New+Technologies" />
 
@@ -15,29 +15,20 @@
 # 🚀 About Me
 
 - 🎓 Final Year Computer Science Engineering Student
-- 💼 Backend Developer Intern at **Zephvion Pvt. Ltd.** *(April 2026 – July 2026)*
-- 💻 Passionate about Backend Development & Cloud Computing
-- ☁️ Currently learning **Docker, AWS & Microservices**
-- 📚 Solving Data Structures & Algorithms in Java
-- 🤖 Interested in Generative AI
+- 💻 Passionate about Backend Development, Cloud Computing, and scalable system design
+- 📚 Regularly practicing Data Structures and Algorithms in C++
+- 🤖 Exploring Generative AI and real-world AI integrations
 - 🎯 Looking for Software Engineering opportunities
 
 ---
 
 # 💼 Experience
 
-## Backend Developer Intern — Zephvion Pvt. Ltd.
+- Building backend-focused academic and personal projects with Java, Node.js, and Python
+- Learning cloud-native workflows with Docker and AWS fundamentals
+- Strengthening problem-solving with consistent DSA practice
 
-**April 2026 – July 2026**
 
-- Developed backend APIs using Node.js and Express.js
-- Worked with PostgreSQL, Drizzle ORM and Neon DB
-- Implemented JWT Authentication
-- Optimized backend modules and fixed production bugs
-- Collaborated with the team using Git & GitHub
-- Contributed to backend development of the company's **NammaDharani** platform
-
----
 
 ## 🛠️ Tech Stack
 
@@ -81,18 +72,18 @@
 
 <tr>
 <td>📧 Email</td>
-<td><a href="mahammadziyad251">mahammadziyad251@gmail.com</a></td>
+<td><a href="mailto:mahammadziyad251@gmail.com">mahammadziyad251@gmail.com</a></td>
 </tr>
 
 <tr>
 <td>🌐 Portfolio</td>
-<td><a href=""></a></td>
+<td><a href="https://github.com/ziyad251?tab=repositories">Projects Showcase</a></td>
 </tr>
 
 
 <tr>
 <td>💼 LinkedIn</td>
-<td><a href="linkedin.com/in/mahammad-ziyad-890404299?utm_source=share_via&utm_content=profile&utm_medium=member_android">Mahammad Ziyad</a></td>
+<td><a href="https://www.linkedin.com/in/mahammad-ziyad-890404299/">Mahammad Ziyad</a></td>
 </tr>
 
 
