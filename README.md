@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Rajath
+# Hi 👋, I'm Its Rajath
 
-### Backend Developer • Software Engineer
+### Full Stack Developer • Backend Engineer • Building Projects That Solve Problems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Backend+Developer;Cloud+Enthusiast;GenAI+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+%26+Automation+Enthusiast;Building+Projects+That+Solve+Problems" />
 
-<img src="https://komarev.com/ghpvc/?username=ziyad251&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -15,51 +15,69 @@
 # 🚀 About Me
 
 - 🎓 Final Year Computer Science Engineering Student
-- 💻 Passionate about Backend Development, Cloud Computing, and scalable system design
-- 📚 Regularly practicing Data Structures and Algorithms in C++
-- 🤖 Exploring Generative AI and real-world AI integrations
-- 🎯 Looking for Software Engineering opportunities
+- 💻 Full Stack Developer with a strong interest in Backend Engineering
+- ⚡ Building AI-powered applications, developer tools, and scalable web applications
+- 📚 Solving Data Structures & Algorithms using C++
+- 🤖 Interested in Generative AI, Linux, Kubernetes, and System Design
+- 🎯 Open to Software Engineering opportunities
 
 ---
 
-# 💼 Experience
+# 🚀 Featured Projects
 
-- Building backend-focused academic and personal projects with Java, Node.js, and Python
-- Learning cloud-native workflows with Docker and AWS fundamentals
-- Strengthening problem-solving with consistent DSA practice
+- 🤖 AI SaaS Platform for image & video generation with community features
+- 🖥️ Nano-Logic — A declarative Linux observability DSL with a Textual TUI
+- ☸️ AI-powered Kubernetes Observability & Self-Healing (Hackathon Project)
+- 📚 Classroom Management System with role-based authentication and online assessments
 
+---
 
+# 🌱 Currently Exploring
 
-## 🛠️ Tech Stack
+- Kubernetes & Container Orchestration
+- AI Agents & LLM Applications
+- System Design
+- Linux Internals
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ### Backend & Databases
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+### Tools & Technologies
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
+
 # 🤝 Connect With Me
 
 <h2 align="center">📬 Get In Touch</h2>
@@ -72,36 +90,29 @@
 
 <tr>
 <td>📧 Email</td>
-<td><a href="mailto:mahammadziyad251@gmail.com">mahammadziyad251@gmail.com</a></td>
+<td><a href="rajath99641@gmail.com>Rajath</a></td>
 </tr>
-
-<tr>
-<td>🌐 Portfolio</td>
-<td><a href="https://github.com/ziyad251?tab=repositories">Projects Showcase</a></td>
-</tr>
-
 
 <tr>
 <td>💼 LinkedIn</td>
-<td><a href="https://www.linkedin.com/in/mahammad-ziyad-890404299/">Mahammad Ziyad</a></td>
+<td><a href="YOUR_LINKEDIN_URL"></a></td>
 </tr>
-
 
 <tr>
 <td>🐙 GitHub</td>
-<td><a href="https://github.com/ziyad251">@ziyad251</a></td>
+<td><a href="https://github.com/itsXILO">itsXILO</a></td>
 </tr>
 
 </table>
 
 <p align="center">
-<i>Thanks for stopping by — let's build something great together!</i>
+<i>Thanks for stopping by — let's build something awesome together!</i>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building scalable backend systems today while preparing for cloud-native applications of tomorrow."
+### ⭐ Building intelligent software, developer tools, and scalable systems—one project at a time.
 
 </div>
