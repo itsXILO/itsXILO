@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Its Rajath
 
-### Full Stack Developer • Backend Engineer • Building Projects That Solve Problems
+### Full Stack Developer • Backend Developer • Building Projects That Solve Problems
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+%26+Automation+Enthusiast;Building+Projects+That+Solve+Problems" />
 
