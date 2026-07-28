@@ -1,5 +1,6 @@
 <div align="center">
 
+# Hi 👋, I'm Rajath
 
 
 ### Aspiring Full Stack Developer • Building Projects That Solve Problems
