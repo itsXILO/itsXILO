@@ -13,7 +13,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 - 🎓 Final Year Computer Science Engineering Student
 - 💻 Full Stack Developer with a strong interest in Backend Engineering
