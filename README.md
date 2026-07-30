@@ -24,7 +24,7 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 - 🤖 AI SaaS Platform for image & video generation with community features
 - 🖥️ Nano-Logic — A declarative Linux observability DSL with a Textual TUI
@@ -33,7 +33,7 @@
 
 ---
 
-# 🌱 Currently Exploring
+#  Currently Exploring
 
 - Kubernetes & Container Orchestration
 - AI Agents & LLM Applications
