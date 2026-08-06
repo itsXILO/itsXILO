@@ -36,7 +36,7 @@
 #  Currently Exploring
 
 - Kubernetes & Container Orchestration
-- AI Agents & LLM Applications
+- AWS
 - System Design
 - Linux Internals
 
