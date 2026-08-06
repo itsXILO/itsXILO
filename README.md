@@ -38,7 +38,6 @@
 - Kubernetes & Container Orchestration
 - AWS
 - System Design
-- Linux Internals
 
 ---
 
